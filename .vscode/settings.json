@@ -1,6 +1,8 @@
 {
-    "editor.formatOnSave": true,
-    "prettier.printWidth": 80,
-    "prettier.endOfLine": "auto",
-    "prettier.arrowParens": "avoid"
+	"editor.formatOnSave": true,
+	"prettier.printWidth": 80,
+	"prettier.endOfLine": "auto",
+	"prettier.arrowParens": "avoid",
+	"prettier.tabWidth": 4,
+	"prettier.trailingComma": "none"
 }
